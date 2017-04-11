@@ -21,7 +21,7 @@ int main()
 	cout << " your result = " << x << endl;
 	s = (a + x) * n / 2;
 	cout << " your result = " << s << endl;
-	    //s-сумма (кол-во мест всего).
+	//s-сумма (кол-во мест всего).
     }
     else
     {
